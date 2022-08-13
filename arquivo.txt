@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Arquivo atualizado por Aline.
+=======
+Resolvendo conflito - Bruno Souza
+>>>>>>> c475b62617522d0ae424c028e30563c9e69e1ad0
